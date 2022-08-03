@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Main { // Main class, starts here
     public static void main(String[] args){ // Main method, starts here
+        // Checking Gitty boio
         Scanner sc = new Scanner(System.in); // Generate a new scanner to take console input with
         System.out.println("How wide is the wall in meters?"); // Prompt the width question
         float width = sc.nextLong(); // Take the user input as the width
